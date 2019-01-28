@@ -1,0 +1,5 @@
+main: DropHead\DropHead
+name: DropHead
+author: GoldenTouch74
+version: "1.0"
+api: [3.0.0]
