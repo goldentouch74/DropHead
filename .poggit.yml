@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/goldentouch74/DropHead
+branches:
+- master
+projects:
+  DropHead:
+    path: ""
+...
